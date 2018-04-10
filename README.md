@@ -1,11 +1,9 @@
-# code-wars
+This repository is used to track my Code Wars solutions throughout 301 
 
-The code provided is supposed replace all the dots . in the specified String str with dashes -
+Will include:
 
-But it's not working properly.
+1. README.md file with the description of the problem domain from Code Wars, a link to the challenge on Code Wars, and an overview of your process for solving the challenge.
 
-Task
-Fix the bug so we can all go home early.
+2. Picture of your pseudocode from the whiteboarding exercise 
 
-Notes
-String str will never be null.
+3. JavaScript file of your solution after confirming that it passes on Code Wars. Your TAs will be confirming that your solution passes the tests, so make sure that it is complete before adding it to your repo. 
